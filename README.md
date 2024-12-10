@@ -29,4 +29,5 @@
 7. เพิ่มคำสั่งในไฟล์
 	- git add README.md
 	- git commit -m "คำสั่ง git"
+    - git push
 
